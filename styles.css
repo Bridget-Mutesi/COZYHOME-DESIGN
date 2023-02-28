@@ -33,10 +33,10 @@
     gap: 2rem;
 }
 .box{
-    background-color: rgb(102, 36, 12);
+    background-color: #ffac7d;
     color: white;
     justify-content: center;
-    text-align: center;
+    
 }
 .bjt{
     width:200px;
@@ -55,7 +55,7 @@
     padding: 20px;
     width: 80%;
     margin: 5%;
-    background-color: rgb(2, 2, 45);
+    background-color: #002d3d;
     
     color: white;
     
@@ -107,16 +107,35 @@
     height: 20px;
 }
 .bottom{
-    display: flex;
-    gap: 2rem;
     background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    color: white; 
+}
+.navigation ul{
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+}
+.block{
+    text-align: center;
+    margin-top: 100px;
+}
+.word{
+    color: #ffac7d;
+}
+.table{
+    background-color: #ffac7d;
     color: white;
 }
-.team{
-    padding: 1.25rem;
-    min-width: 12.5rem;
-    display: flex;
+.exp{
+    background-color: #ffac7d;
+    color: white;
+    justify-content: center;
+    text-align: center;
 }
-
+.navigation ul a{
+    display: flex;
     
+}
 
