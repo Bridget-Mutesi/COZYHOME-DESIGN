@@ -1,0 +1,122 @@
+.menu{
+    background-image: url(/images/first\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1300px;
+    height:80vh;
+    background-position: center;
+
+    
+}
+.text{
+    position: relative right;
+}
+
+.log1{
+    margin:2px;
+    width: 150px;
+    height: 150px;
+}
+.log2{
+    margin:3px;
+    width:150px;
+    height:150px;
+}
+.log3{
+    margin:3px;
+    width: 150px;
+    height:150px;
+}
+.elements{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.box{
+    background-color: rgb(102, 36, 12);
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.bjt{
+    width:200px;
+    height:200px;
+}
+.mac{
+    width:200px;
+    height:200px;
+}
+.tesi{
+    width:200px;
+    height:200px;
+}
+.container{
+    border: solid black;
+    padding: 20px;
+    width: 80%;
+    margin: 5%;
+    background-color: rgb(2, 2, 45);
+    
+    color: white;
+    
+    
+}
+.word{
+    text-align: left;
+    /*margin-top: 0%;*/
+    /*position: absolute;*/
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.theboxes{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.circle{
+    border-radius: 2500px;
+    height: 300px;
+    width: 350px;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+    background-color: #ffe5d6;
+}
+.daughter{
+    float: right;
+    width: 350px;
+    height: 350px;
+}
+.holder{
+    background-color: #ffac7d;
+    justify-content: center;
+}
+.detail{
+    text-align: center;
+}
+.num1{
+    width: 20px;
+    height: 20px;
+}
+.num2{
+    width: 20px;
+    height: 20px;
+}
+.num3{
+    width: 20px;
+    height: 20px;
+}
+.bottom{
+    display: flex;
+    gap: 2rem;
+    background-color: blue;
+    color: white;
+}
+.team{
+    padding: 1.25rem;
+    min-width: 12.5rem;
+    display: flex;
+}
+
+    
+
